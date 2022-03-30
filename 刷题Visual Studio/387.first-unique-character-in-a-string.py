@@ -16,6 +16,8 @@ class Solution:
                 return idx 
 
         return -1
+# TC: O(N) we go through the string of length N two times
+# SC: O(1) English alphabet contains 26 letters 
 
         
 # @lc code=end
